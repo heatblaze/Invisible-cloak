@@ -1,0 +1,7 @@
+Invisible-Cloak-Project/
+├── README.md                # Project documentation
+├── invisible_cloak.py       # Main Python script
+├── requirements.txt         # Dependencies for the project
+└── demo/                    # Directory for demo videos or screenshots
+    ├── demo.gif             # Sample demonstration of the effect
+    └── demo_screenshot.jpg  # Screenshot of the invisible cloak in action
